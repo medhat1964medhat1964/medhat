@@ -8,3 +8,6 @@
 [remote "origin"]
 	url = git@github.com:medhat1964medhat1964/medhat.git
 	fetch = +refs/heads/*:refs/remotes/origin/*
+[gui]
+	wmstate = iconic
+	geometry = 893x435+125+125 175 196
